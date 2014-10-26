@@ -1,0 +1,26 @@
+{
+  "name": "terminal-parser",
+  "version": "0.1.0",
+  "author": "BahaaGalal <bahaa.g.ali@gmail.com>",
+  "description": "terminal utility that parses terminal args",
+  "main": "./lib/terminal.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bahaagalal/terminal-parser.git"
+  },
+  "keywords": [
+    "Terminal",
+    "Scripts"
+  ],
+  "engine": {
+    "node": ">=0.10"
+  },
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha test/*.js"
+  },
+  "devDependencies": {
+    "mocha": "~2.0.1",
+    "chai": "~1.9.2"
+  },
+  "dependencies": {}
+}
