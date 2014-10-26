@@ -1,5 +1,7 @@
 # Terminal Parser
 
+[![Build Status](https://travis-ci.org/bahaagalal/terminal-parser.png?branch=master)](https://travis-ci.org/bahaagalal/terminal-parser)
+
 A terminal utility that its sole objective is to parse terminal-like arguments.
 
 Its functionality is super simple to describe.
